@@ -49,47 +49,41 @@ Rethinking Conditional Methods for StarGAN-Based Voice Conversion</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(24).pdf" style="text-decoration:none;">Mel-spectrogram augmentation for sequence-to-sequence voice conversion</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(25).pdf" style="text-decoration:none;">Unsupervised Representation Disentanglement using Cross Domain Features and Adversarial Learning in Variational Autoencoder based Voice Conversion</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(26).pdf" style="text-decoration:none;">Transforming Spectrum and Prosody for Emotional Voice Conversion with Non-Parallel Training Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(27).pdf" style="text-decoration:none;">Vocoder-free End-to-End Voice Conversion with Transformer Network</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(28).pdf" style="text-decoration:none;">Comparison of Speech Representations for Automatic Quality Estimation in Multi-Speaker Text-to-Speech Synthesis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(29).pdf" style="text-decoration:none;">F0-consistent many-to-many non-parallel voice conversion via conditional autoencoder </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(30).pdf" style="text-decoration:none;">Unsupervised Speech Decomposition via Triple Information Bottleneck</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(31).pdf" style="text-decoration:none;">Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(32).pdf" style="text-decoration:none;">Converting Anyone's Emotion:
+Towards Speaker-Independent Emotional Voice Conversion</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(33).pdf" style="text-decoration:none;">Robust Training of Vector Quantized Bottleneck Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(34).pdf" style="text-decoration:none;">Generative Adversarial Training Data Adaptation for Very Low-resource Automatic Speech Recognition</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(35).pdf" style="text-decoration:none;">Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(36).pdf" style="text-decoration:none;">Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(37).pdf" style="text-decoration:none;">VQVC+: One-Shot Voice Conversion
+by Vector Quantization and U-Net architecture</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(38).pdf" style="text-decoration:none;">VAW-GAN for Singing Voice Conversion with Non-parallel Training Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(39).pdf" style="text-decoration:none;">CinC-GAN for Effective F0 prediction for Whisper-to-Normal Speech Conversion</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(40).pdf" style="text-decoration:none;">Transfer Learning from Monolingual ASR to Transcription-free Cross-lingual Voice Conversion</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(41).pdf" style="text-decoration:none;">The Sequence-to-Sequence Baseline for the Voice Conversion Challenge 2020: Cascading ASR and TTS</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(42).pdf" style="text-decoration:none;">Baseline System of Voice Conversion Challenge 2020 with Cyclic Variational Autoencoder and ParallelWaveGAN</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(43).pdf" style="text-decoration:none;">Towards Natural Bilingual and Code-Switched Speech Synthesis Based on Mix of Monolingual Recordings and Cross-Lingual Voice Conversion</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(44).pdf" style="text-decoration:none;">CycleGAN-VC3:
+Examining and Improving CycleGAN-VCs for Mel-spectrogram Conversion</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(45).pdf" style="text-decoration:none;">FragmentVC: Any-to-Any Voice Conversion by End-to-End Extracting and Fusing Fine-Grained Voice Fragments With Attention</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Voice-Conversion-Papers/blob/master/voc(46).pdf" style="text-decoration:none;">Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset</a></li> 
                              
 </ul>
